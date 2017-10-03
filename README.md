@@ -16,8 +16,8 @@ A large portion of the entire code has been commented and describes what certain
 ## Current State
 Below are images of the current state of the game. Included is also a diagnostics graph
 
-![alt text](https://imgur.com/lDjD2AD)
-![alt text](https://imgur.com/yiVp7Yy)
+![alt text](https://imgur.com/lDjD2AD.png)
+![alt text](https://imgur.com/yiVp7Yy.png)
 
 ## Releases
 No release is available yet. Stay tuned.
