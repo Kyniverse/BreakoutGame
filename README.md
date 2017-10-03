@@ -15,6 +15,7 @@ A large portion of the entire code has been commented and describes what certain
 
 ## Current State
 Below are images of the current state of the game. Included is also a diagnostics graph
+on both Memory and CPU debugging.
 
 ![alt text](https://imgur.com/lDjD2AD.png)
 ![alt text](https://imgur.com/yiVp7Yy.png)
