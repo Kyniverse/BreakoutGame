@@ -13,5 +13,11 @@ The project has been written in C# 7.0 in a syntax form regarding the 'Microsoft
 
 A large portion of the entire code has been commented and describes what certain functions do.
 
+## Current State
+Below are images of the current state of the game. Included is also a diagnostics graph
+
+![alt text](https://imgur.com/lDjD2AD)
+![alt text](https://imgur.com/yiVp7Yy)
+
 ## Releases
 No release is available yet. Stay tuned.
